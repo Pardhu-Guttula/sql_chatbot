@@ -23,8 +23,8 @@ Before running the application, make sure you have the following installed:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/Pardhu-Guttula/sql_chatbot.git
+    cd sql_chatbot
     ```
 
 2. **Create a virtual environment**:
